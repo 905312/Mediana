@@ -1,0 +1,17 @@
+C:\Users\prdb\source\repos\nail\bin\Debug\net8.0\nail.exe
+C:\Users\prdb\source\repos\nail\bin\Debug\net8.0\nail.deps.json
+C:\Users\prdb\source\repos\nail\bin\Debug\net8.0\nail.runtimeconfig.json
+C:\Users\prdb\source\repos\nail\bin\Debug\net8.0\nail.dll
+C:\Users\prdb\source\repos\nail\bin\Debug\net8.0\nail.pdb
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.AssemblyInfo.cs
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.dll
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\refint\nail.dll
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.pdb
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.genruntimeconfig.cache
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\ref\nail.dll
+C:\Users\prdb\source\repos\nail\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.csproj.AssemblyReference.cache
+C:\Users\prdb\source\repos\nail\obj\Debug\net8.0\nail.csproj.Up2Date
